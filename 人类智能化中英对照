@@ -1,0 +1,375 @@
+**Introduction**
+
+**引言**
+
+I have always travelled but since *Digital Bank* was published in 2014, I have been travelling non-stop around the world. To show how hectic my schedule can be, there have been several occasions where I’ve travelled from the United States to Asia via Europe and back in a week. That’s crazy, I know, but it has given me some amazing opportunities. Opportunities to learn and expand my horizons and knowledge, the sort of experiences that can only be gained through such travel. I have explored the caves of the Cradle of Humankind in South Africa, Roman remnants of Baalbek in Lebanon in the Fertile Crescent and the West Lake of Hangzhou, China, where I understood 4,000 years of civilisation through food.
+
+我经常旅行，2014年推出《互联网银行》时，我还在马不停蹄地环游世界。我的日程安排得很紧密，有好几次我从美国途经欧洲前往亚洲，又在一个星期内返回。我知道，这太疯狂了，但旅行带给了我许多不可思议的机会，让我能够学习知识，拓展视野。如此体验只能通过这样的旅行才能获得。我在南非探索了“人类摇篮”遗址，在属于中东“肥沃新月地带”的黎巴嫩游览了巴勒贝克古罗马遗迹，在中国的杭州西湖从食物中领略了4000年的文明。
+
+Such extensive travel has led me to some fairly surprising conclusions that I’ll share here. These conclusions are a mixture of my travel experiences, extensive reading whilst travelling and my own knowledge of financial services and humanity. Money and banking are at the heart of our world. After sex and food, most of us think about money more than anything else. Money is the single thing that controls our lives. It gives us the ability to live life to excess if we have more money than we need or it leads us to misery and depression if we have too little.
+
+经过多次的旅行，我获得了一些惊人的结论，将在此分享。这些结论融合了我个人的旅行经历、旅行时的广泛阅读以及我自己对金融服务和人类的了解。金钱和银行业务是世界的核心，大多数人认为金钱的重要性仅次于性和食物。金钱是控制生活的唯一因素，如果拥有的钱比需要的多，我们就有能力过上更好的生活；如果没有达到所需，我们就会痛苦和沮丧。
+
+Unfortunately, far too many people have too little. One in eight Americans officially lives in poverty, translating into a figure of 43 million people in 2015, whilst one in five British people lives in poverty. Around the globe, almost half of the world’s population lives in poverty. That’s over three billion people living on less than $2.501 a day. Of those, one in three—1.3 billion people—lives in extreme poverty, living on less than $1.25 a day.
+
+不幸的是，多数人拥有的太少。官方数据表明，在美国，有八分之一的人生活在贫困中，2015年这一数字达到了4300万；在英国，有五分之一的人生活在贫困中。放眼全球，几乎一半的世界人口生活在贫困之中，超过30亿人每天生活费不到2.50美元1，其中，三分之一的人口（13亿人）极度贫困，每天生活费不足1.25美元。
+
+1 Unelss otherwise stated, the currency used throughout this book is the US dollar (US$).
+
+除非另有说明，本书所用的货币为美元（$）。
+
+When I was growing up, we thought poor people lived in Africa, India and China. In the early to mid-1980s, our media covered terrible famines in Ethiopia and huge campaigns were launched, resulting in the first ever global music event, Live Aid, in 1985. What is intriguing today is that the very markets that were considered the poorest are now getting richer through a mixture of aid and opportunity. This aid is being distributed by the likes of the United Nations (UN) and World Bank, which are working with philanthropic and charitable non-governmental organisations (NGOs) like the Bill & Melinda Gates Foundation and Oxfam.
+
+在我成长过程中，我们认为穷人生活在非洲、印度和中国。在20世纪80年代早期到中期，媒体报道了埃塞俄比亚发生的严重饥荒，引发了大规模运动，因此，在1985年首次举办了全球音乐活动“拯救生命”。有趣的是，那些曾经被视为最贫穷的市场，如今在援助和机遇的交织下，正在变得越来越富有。这项由联合国（UN）和世界银行等机构发起的援助，正在与比尔及梅琳达·盖茨基金会、乐施会等公益慈善类非政府组织展开合作。
+
+What I have personally seen, during the last decade, is that technology is playing a major role in making these problems change. Sure, there will always be poverty but a lot of today’s poverty is created by the system. If you cannot get access to financial services, you are locked into poverty. The poorest people pay the most for moving money. They often are the most vulnerable, too. This combination of vulnerability and being locked out is the reason why so many people will never escape the poverty trap. But, as I’ve already said, that is now changing. Today, thanks to the simple mobile telephone, everyone can be connected globally in real time.
+
+过去十年，我亲眼所见，技术在解决这些问题上发挥着重要作用。当然，脱贫永远是不可能的，但今天的很多贫困都是由制度造成。如果无法获得金融服务，你就会陷入贫困。最穷的人为生活消费付出最多，他们通常也是最脆弱的人。这种弱点和被排除在外的结合，让许多人永远无法摆脱贫困的牢笼。但是，我已经说过了，现在在改变中。今天，多亏了便携的移动电话，每个人都可以与全球实时连接。
+
+Mobile has been the real game changer. It is the driving force behind traditional retail financial institutions becoming a digital bank, and for creating new financial models for new financial technology firms, or FinTech firms as we know them. I discussed a lot about the foundations of the Internet of Value (IoV) created by FinTech and mobile in my last book, *ValueWeb*. In this book, I guess I’ve moved away a little from purely writing about tech and finance, although this is still core to my writing.
+
+手机已经是真正的游戏规则颠覆者，它推动传统零售金融机构向数字银行的转变，为新型金融技术公司或者熟知的金融科技公司构建新的金融模型。我在上一本书《FinTech:金融科技时代的来临》中讨论了很多关于金融科技公司和手机创造的价值互联网(IoV)的基础。在这本书中，我想我脱离了对技术和金融的纯粹写作，但这仍是我写作的核心。
+
+Yes, people have written about the fourth Industrial Revolution and focused on the latest technologies from robotics to artificial intelligence (AI). That’s all in this book too, as no book about our future should overlook these huge ramifications of technology. However, the bigger picture is what I focus on here, and that bigger picture is not that we have a new industrial or technology revolution, but that we actually have a revolution of humanity.
+
+已经有人写过第四次工业革命，并专注于从机器人到人工智能(AI)的最新技术。这本书也包括了这些内容，因为每一本与未来相关的书都不能忽视这些技术的巨大影响。不过，我关注的是更大的前景，这并不是指新的工业或技术革命，而是真正意义上的人类革命。
+
+The last great human revolution was the Industrial Revolution. Before that, there was the rise of civilisations during the second human revolution five thousand years ago. And before that, we had the first great revolution of humanity, which was becoming human ourselves. However, no one has written about the revolutions in humanity, or not that I know of. That is why this concept intrigues me so much. The enormous impact of the digital revolution, creating the fourth age of humanity, is that we are *all* connected one-to-one in real time for the very first time.
+
+最后一次伟大的人类革命是工业革命，在此之前，距今5000年，第二次人类革命兴起了文明，再往前，第一次人类革命产生了人类特有的语言。然而，没有人写过这种书，或者写的不是我了解的人类革命。这也是为什么我对这个概念如此感兴趣。数字革命是人类的第四个时代，对实现首次一对一连接有着巨大影响。
+
+Now, 7.5 billion people, who were all unconnected a decade ago, are able to connect immediately through the mobile telephone. By connecting through technology, we instantly turn the simple telephone into something far more intelligent—it becomes a trading machine. Therefore, for the first time, we can all transact and trade with each other in real time, one-to-one. This is indeed a transformational revolution, and this is the revolution that I focus on here.
+
+十年前，75亿人是单独的个体，而现在能够通过手机实时联系起来。通过技术连接，我们立马将简单的电话变得更加智能，电话成为了交易机器。因此，第一次，我们可以实时地、一对一地进行贸易交易。的确，这是一场转型革命，在书中我也会重点讨论这场革命。
+
+*Digital Human* takes the ideas of *Digital Bank* and *ValueWeb* and turns them into something wider. The book looks at the implications for humanity, trade and commerce and, the most encouraging thing of all, our future. What is happening through our digitalisation of humanity is that we are eroding boundaries and overcoming exclusion.
+
+这本书《人类智能化》延续《互联网银行》和《FinTech:金融科技时代的来临》的思想，并以此拓展开来。这本书着眼于对人类、贸易和商业的影响，以及最能鼓舞人心的未来。人类智能化正在让我们一边靠近边缘又一边避免排斥。
+
+Financial exclusion applies to nearly two-thirds of humanity. Financial exclusion creates challenges because it’s hard to transact and trade or achieve any real change if you cannot send and receive money. Therefore, the digitalisation of humanity is achieving the inclusion of everyone. For the first time in history, the system—the mobile network systems to be exact—is including everyone. This is the remarkable impact of the mobile network of value and is illustrated really well by Ant Financial, a spin-off from the Chinese internet giant Alibaba. Ant Financial is currently the only company in the world that is trying to build a global financial inclusion programme. The company’s mission of inclusivity means that it aims to support two billion users by 2025. This is precisely why I chose to feature Ant Financial as a major case study at the end of this book.
+
+金融排斥发生在接近三分之二的人身上，这是一个挑战，因为没有支出和收入很难进行贸易交易或者得到真的改变。因此，人类智能化正在实现对每个人的金融包容。有史以来第一次，系统，更准确地说是移动网络系统，把每个人都包括其中。这是移动价值网络的显著影响，中国互联网巨头阿里巴巴旗下子公司蚂蚁金服（蚂蚁金融服务集团）非常清楚地说明了这一点。目前，蚂蚁金服是目前世界上唯一一家试图建立全球金融包容性计划的公司。该公司的包容性使命意味着它的目标是在2015年之前支持20亿用户，这正是我在本书末尾将蚂蚁金服作为一个主要案例研究的原因。
+
+Between Jack Ma, Mark Zuckerberg, Bill Gates and other leaders, who just happen to own nearly all the wealth on this planet2,  there is a vision of creating financial inclusion and alleviating poverty. Giving everyone the chance to access microloans, microsavings and microinsurance via mobile networks gives everyone a chance to improve their lives. That is the vision and it is starting to take shape.
+
+马云、扎克伯格、比尔盖茨等创始人刚好拥有这个星球上几乎所有的财富2，他们都有提升金融包容性和减轻贫困的愿景。通过移动网络让每个人都有机会获得小额贷款、小额储蓄和小额保险，能够改善各自的生活，这就是初具雏形的愿景。
+
+This digitalisation of our planet is bringing about a major transformation. Everyone on the planet will be included in the network and everyone on theplanet will get the chance to talk, trade and transact with everyone else on the planet in real time. Unlike the Industrial Revolution during which only a limited number of humans gained access to wealth and trade, this digital revolution will give everyone a chance.
+
+我们这个星球的智能化正在带来一场重大变革。地球上的每个人都将被纳入网络，并且该平台上的每个人都将有机会实时与其他人交流，进行贸易来往。工业革命中，只有少数人获得财富和贸易，与之不同，这场数字革命将给每个人机会。
+
+Welcome to the fourth revolution of humanity and the biggest change our world has seen since the steam pump was patented in the seventeenth century.
+
+欢迎来到人类的第四次革命，这是自17世纪以来，蒸汽机获得专利以后，世界上发生的最大的变化。
+
+1 Unless otherwise stated, the currency used throughout this book is the US dollar (US$).
+
+除非另有说明，本书所用的货币为美元($)。
+
+2 Half of the world’s wealth sits with just a few men. At the 2017 World Economic Forum (WEF), Oxfam published a report that showed eight people own the same wealth as the 3.6 billion people who make up the poorest half of the world’s population.
+
+2世界一半的财富都掌握在几个男人手里。在2017年世界经济论坛（WEF）上，乐施会发表的一份报告称，八大富豪身家等同于36亿贫穷人口的总财产，占全球总人口的一半。
+
+**THE REVOLUTIONS OF HUMANITY: DIGITAL HUMANS**
+
+**人类革命：人类智能化**
+
+The history of money is wrapped up in sex, religion and politics, the things we are told not to talk about. Yet these are the themes that rule our lives, and money is at the heart of all three. The origins of money reflect the origins of humans. As you will see, there have been three great revolutions in human history: we first formed communities, next civilisations and then industry. We are currently living through a fourth great revolution in humankind, with a fifth in the not-so-distant future. And each revolution in humankind, in turn, creates a revolution in monetary and value exchange. That is why it is important to reflect on the past to understand the present as well as forecast the future. To put all of this into context, we need to begin at the beginning and talk about the origins of humans.
+
+货币的历史包含在那些不允许谈论的话题中——性、宗教和政治。然而，这些确实是贯穿我们生活的主题，而货币是三者的核心。货币的起源反映了人类的起源。你们会看到人类历史上的三次伟大革命：第一次是群体的形成，第二次是文明的产生，第三次是工业的进步。当前，我们正在经历人类的第四次伟大革命，不久还会有第五次。转而，人类的每一次革命又会在货币和价值交换方面创造一场革命。所以回顾过去，了解现在以及预测未来很重要。为了在全文中体现这一点，我们需要在一开始就谈论人类的起源。
+
+**THE FIRST AGE: THE CREATION OF SHARED BELIEFS**
+
+**第一个时代：共同信仰的塑造**
+
+Seven million years ago, the first ancestors of mankind appeared in Africa. Fast-forward seven million years and mankind’s existence is being traced by archaeologists in South Africa where they believe they will find several missing links in our history. A history traced back to the first hominid forms. What’s a hominid, I hear you say?
+
+700万年前，非洲出现了人类最早的祖先。时间快进700万年，考古学家在南非追踪到了人类的存在，他们相信在那里可以找到缺失的历史。历史可以追溯到最早的原始人形态。你说什么是原始人？
+
+Well way back when, scientists believe that the Eurasian and American tectonic plates collided and then settled, creating a massive flat area in Africa, after the Ice Age. This new massive filed was flat for hundreds of miles and the apes that inhabited this land suddenly found there were no trees to climb. Instead, just flat land and berries and grasses. This meant that the apes found it hard to thunder over hundreds of miles on their hands and feet, so they started to stand up to make it easier to move over land. This resulted in a change in the wiring of the brain which, over thousands of years, led to the early forms of what is now recognised as human.
+
+很久以前，科学家们就认为冰河时代后，欧亚板块和美洲板块发生碰撞，在非洲形成了一个巨大的平原。这片新的土地一望无垠，生活在这里的猿类突然发现没有树木可以攀爬了，取而代之的是平坦的土地、浆果和草。这意味着，在几百英里以外的地方，猿类很难用手和脚拍打出轰隆的响声，为了方便在陆地上移动，它们开始站起来。这改变了大脑线路，经过几千年的发展，形成了人类的早期形态。
+
+The first link to understanding this chain was the discovery of Lucy. Lucy, named after the Beatles’ song “Lucy in the Sky with Diamonds”, is the first skeleton that could be pieced together to show how these early human forms appeared on the African plains in the post-Ice Age world. The skeleton was found in the early 1970s in Ethiopia by paleoanthropologist Donald Johanson and is an early example of the hominid australopithecine, dating back to about 3.2 million years ago. The skeleton presents a small skull akin to that of most apes, plus evidence of a walking gait that was bipedal and upright, akin to that of humans and other hominids. This combination supports the view of human evolution that bipedalism preceded increase in brain size.
+
+了解这条进化链的第一个联系是露西的发现。露西取自披头士乐队的歌曲《露西在缀满钻石的天空中》，是首具拼凑起来骨骼化石，展示了冰河时代非洲平原上的早期人类形态。由古人类学家唐纳德·约翰森(Donald Johanson)于20世纪70年代初在埃塞俄比亚发现，露西是最早发现的南方古猿化石，距今约320万年。这副骨架具有类似猿的脑容量和类似于人类的二足直立行走方式，支持了人类进化争论中直立行走在脑容量之前的看法。
+
+Since Lucy was found, there have been many other astonishing discoveries in what is now called the Cradle of Humankind in South Africa, a UNESCO World Heritage site. It gained this status after the discovery of a near-complete Australopithecus skeleton called “Little Foot”, dating to more than three million years ago, by Ron Clarke between 1994 and 1997. Why was Little Foot so important? Because it’s almost unheard of to find fossilised hominin remains intact. The reason is that the bones are scattered across Earth as soil sank into the ground and remains were distributed amongst the porous caves underneath. An intact skeleton is therefore as likely to be found as a decent record by Jedward.
+
+发现露西后，在联合国教科文组织世界遗产——南非“人类摇篮”遗址中，还有许多其他惊人的发现。1994年到1997年，罗恩·克拉克(Ron Clarke)发现了一具几乎完整的南方古猿骨骼化石，命名为“小脚”，这具化石距今300多万年。为什么“小脚”化石这么重要？因为保留完整的人类化石几乎闻所未闻。当土壤沉入地下，这些骨头散落在地底各处，遗骸则留在地下的多孔洞穴里，因此，对杰德沃德来说，一具完整的骨架是相当好的历史记录。
+
+All in all, the human tree of life that falls into the catch-all of the *Homo* species, of which we are *Homo sapiens*, has several other tributaries including *Homo erectus*, *Homo floresiensis*, *Homo habilis*, *Homo heidelbergensis*, *Homo* *naledi* and *Homo neanderthalensis*. The question then arises: if there were several forms of human, how come we are the only ones left?
+
+总而言之，人类的生命之树属于所有的人类，我们属于智人，还有一些其他的分支，包括直立人、弗洛勒斯人、能人、海德堡人、纳莱迪人以及尼安德特人。那么，产生了一个问题：如果有几种形式的人类，我们怎么会是唯一存活的人类呢?
+
+Some of that may have been due to changing times. After all, there aren’t any mammoths or sabre-toothed tigers around today, but there are several forms of their ancestors still on Earth. Yet what is interesting in the order of hominids, according to Yuval Noah Harari, author of *Sapiens* and a leading authority on the history of humankind, is that *Homo sapiens* defeated all other forms of hominid because we could work together in groups of hundreds. According to his theory, all other human forms peaked in tribes with a maximum of 150 members, about the maximum size of any ape colony, because with this sized group, too many alpha males existed and the order of the group would fall apart. One part of the group would then follow one alpha male and another part the other.
+
+部分原因可能是时代的变化。毕竟，今天已经没有猛犸象或剑齿虎，但它们的祖先仍以几种形式生活在地球上。然而，根据《智人》的作者、人类历史的主要权威人物尤瓦尔·赫拉利的说法，现代人击败了所有其他形式的原始人，因为我们可以在数百人的团队中协同工作。根据他的理论，其他人类形态在部落中达到顶峰的时候，最多有150人，大约是任何猿类群体的最大规模。因为在这样的规模中，如果有太多的阿尔法男性，群体秩序就会分崩离析。该群体的一部分会跟随一名男性，另一部分则拥护另一名。
+
+*Homo sapiens* developed beyond this because we could talk to each other. We could create a rich landscape of information, not just grunts and signs, and began to build stories. By building stories, we could share beliefs and, by sharing beliefs, hundreds of us could work together in tribes, not just one hundred. This meant that when *Homo sapiens* villages were attacked by other *Homo* forms, we could repel them easily. We could also, in return, attack those human forms and annihilate them. And we did. Neanderthals, who share about 99.5 per cent of our DNA, died out 40,000 years ago and were the last *Homo* variation to survive. After that, it was just us human beings, or *Homo sapiens* if you prefer.
+
+现代人的发展超越了这一点，因为我们可以互相交谈，可以创建丰富的信息环境，而不仅仅是口头的咕哝和手势，并开始书写历史。这样，我们可以分享信仰，由此，我们可以在数百人的团队里一起工作，而不仅仅是100人。这意味着，当智人的部落受到其他人类的攻击时，我们可以很容易地击退他们。相反，我们也可以主动攻击并消灭他们，我们也这样做了。尼安德特人的DNA与人类DNA相似度有99.5%，在4万年前就灭绝了，是最后灭绝的人种。在那之后，就只有人类了，或者你更喜欢智人这个称呼。
+
+Now why is this important as a background to the five ages of man? Because this was the first age. This was the age of enlightenment. It was the age of Gods. It was an age of worshipping the Moon and the Sun, the Earth and the Seas, the Fire and the Wind. The natural resources of Earth were seen as important symbols while the birds of the sky, the big cats of the earth and the snakes of the below were seen as key symbols for early humankind.
+
+为什么这是人类五个时代的重要背景呢?因为这是第一个时代。这是启蒙时代，这是神的时代，这是一个崇拜月亮和太阳，地球和海洋，火和风的时代。地球的自然资源被视为重要的象征，天空中的鸟、陆地上的大猫和地底下的蛇则被视为人类早期的关键标志。
+
+We shared these beliefs and stories and, by doing so, could work together and build civilisations. One of the oldest surviving religions of the world is Hinduism but there were other religions before Hinduism in Jericho, Mesopotamia and Egypt. Then the Sun God and the Moon God were the basic shared beliefs, and these shared beliefs were important because they kept order. We could work together in larger and larger groups because of these shared beliefs.
+
+我们分享这些信仰和故事，是为了可以共同努力，建立文明。印度教是世界上现存最古老的宗教之一，但在印度教之前，杰里科、美索不达米亚和埃及还存在其他宗教。太阳神和月亮神是基本的共同信仰，这些信仰在维持秩序方面起着重要的作用，因而我们可以在越来越大的群体中工作。
+
+This is why there is a lot of commonality of Old Testament stories in the Bible with that of the Qur’an. Jews, Christians and Muslims all share beliefs in the stories of Adam and Eve, Moses, Noah and Sodom and Gomorrah, and even some of these beliefs originate from ancient Hindu beliefs of the world.
+
+这也是《圣经》中的旧约故事和《古兰经》有很多共同点的原因。在亚当和夏娃、摩西、诺亚、所多玛和蛾摩拉的故事中，犹太人、基督教徒和穆斯林都有相同的信仰，有些信仰甚至源自古印度教徒对世界的信仰。
+
+Shared beliefs is the core thing that brings humans together and binds them. It is what allows us to work together and get on with each other, or not, as the case may be. I will return to this theme as the creation of banking and money is all about a shared belief that these things are important and have value. Without that shared belief, banking, money, governments and religions would have no power. They would be meaningless.
+
+共同信仰是将人类凝聚并联系在一起的核心，使我们能够一起工作，能够根据具体情况，选择是否同对方往来。回到主题，银行和货币的创造都基于一个共同的信仰，即这些东西很重要且有价值。没有这种共同的信仰，银行、货币、政府和宗教就没有力量，一切将毫无意义。
+
+**THE SECOND AGE: THE INVENTION OF MONEY**
+
+**第二个时代****:****货币的发明**
+
+So man became civilised and dominant by being able to work in groups of hundreds. Eventually, as shared beliefs joined us, they joined us together in having leaders. This is a key differential between humans and monkeys. For example, the anthropologist Desmond Morris was asked whether apes believe in God, and he emphatically responded no. Morris, an atheist, wrote a seminal book in the 1960s called *The Naked Ape*, in which he states that humans, unlike apes, “believe in an after-life because part of the reward obtained from our creative works is the feeling that, through them, we will ‘live on’ after we are dead.”
+
+因此，通过成群结队地工作，人类变得文明，占据了主导地位。信仰把我们聚在了一起，最终也与我们一道成为了主导力量。这是人类和猴子之间的关键区别，例如，人类学家德斯蒙德·莫里斯（Desmond Morris）被问及猿类是否相信上帝，他断然回答说不。莫里斯是一位无神论者，20世纪60年代，他写出了影响深远的《裸猿》，其中指出，人类与猿类不同，“人类相信来生，因为可以从创造性工作中获得回报，其中一部分是即使逝世，我们仍然‘永生’的感觉。”
+
+This is part of our shared belief structure that enables us to work together, live together and bond together in our hundreds and thousands. Hence, religion became a key part of mankind’s essence of order and structure, and our leaders were those closest to our beliefs: the priests in the temples. As man settled into communities and began to have organised structure however, it led to new issues. Historically, man had been nomadic, searching the lands for food and moving from place to place across the seasons to eat and forage. Suddenly we settled into larger communities and farmed, thanks to the invention of the plough. This meant that far fewer people were engaged in creating produce and food, and could do other things. It meant that the most powerful individuals could gather others around them and become kings or be designated as the leader of shared beliefs, or a priest in common nomenclature.
+
+这是共同信仰结构的一部分，使我们能够共同合作，共同生活，而且成百上千人可以团结一心。因此，宗教成为人类秩序和结构本质的重要组成部分，而我们的领袖——寺里的祭司是最接近我们信仰的人。然而，人类进入社会，形成有组织性的结构，引发了新的问题。历史上，人类一直是游牧民族，在土地上寻找食物，一年四季到处觅食。犁的发明，让我们突然生活在更大的团体中，并开始学习耕种。这意味着更少的人从事生产和寻找食物，他们可以做其他事情； 意味着最有权势的人可以聚集周围的人，成为国王或被指定为共同信仰的领导人，或常见的祭司。
+
+Eventually, large cities began to emerge. Some claim the oldest-surviving city in the world is Jericho, dating back over 10,000 years. Others point to Eridu, a city formed in ancient Mesopotamia, near Basra in present-day Iraq, 7,500 years ago. Either way, both cities are seriously old. As these cities formed, thousands of people gathered and settled because the city could support complex, civilised life.
+
+最后，开始出现大城市。有人称，世界上现存最古老的城市是杰里科，其历史可追溯到1万多年前。还有人提到了古代美索不达米亚的一座城市——埃里都，位于现在的伊拉克巴士拉附近，距今7500年。不管怎样，这两座城市都非常古老。随着这些城市的形成，成千上万的人聚集在一起定居下来，因为城市可以维持复杂而文明的生活。
+
+Using Eridu as the focal point, the city was formed because it drew together three ancient civilisations: the Samarra culture from the north; the Semitic culture, whose people had historically been nomads with herds of sheep and goats; and the Sumerian culture, the oldest civilisation in the world. It was the Sumerians who brought with them the earliest form of money.
+
+以埃里都为代表，城市的形成是因为它汇集了三个古老的文明：北方的萨马拉文化；闪族文化，历史上，那里的人都是游牧民，有成群的绵羊和山羊；苏美尔文化，则是世界上最古老的文明。苏美尔人发明了最早的货币形式，
+
+The Sumerians invented money because their system had broken down. It broke down because humankind was settling into larger groups and farming. The farming and settlement structures introduced a revolution in how humankind operated. Before, people had foraged and hunted; now they settled and farmed together.
+
+因为人类开始适应更大的群体和学会耕种，这让苏美尔人的货币体系崩溃了，农耕和安居处的建设引发了一场人类如何运作的革命。以前，人们觅食猎杀；现在，他们安顿下来一起耕种。
+
+Farming resulted in abundance in the good years, but when there was drought, no food was stored because there was no way to encourage farmers to store their over-production in the good years to cover the bad years. So there was a need for a new system and the religious leaders of the time—the government if you prefer—responded by inventing money. From the outset, money has been the control mechanism of societies and economies. Countries that have money have respected economies; countries that don’t, don’t.
+
+在丰收年，农业收成喜人，但在干旱的时候，没有粮食储存。因为没有办法能够鼓励农民在丰收年储存过剩的粮食，这样做可以弥补歉收。所以有必要建立一个新的制度，于是，当时的宗教领袖，你也可以称之为政府，提出发明货币。从一开始，货币就是社会和经济的控制机制。富有的国家尊重经济，贫穷的国家则不会这样做。
+
+So how did the priests make this new belief viable? Sex. There were two gods in ancient Sumer: Baal, the god of war and the elements, and Ishtar, the goddess of fertility. Ishtar made the land and crops fertile, as well as provided pleasure and love.
+
+那么祭司是如何使这个新信仰可行的呢？性。古苏美尔有两个神：巴力是掌管战争和自然的神，伊什塔尔是巴比伦掌管生育的女神，她使地里的庄稼肥沃，将喜悦和爱赐给人间。
+
+This was the key to Sumerian culture: creating money so that the men could enjoy pleasure with Ishtar. Men would go to the temple and offer their abundant crops to the priests. The priests would place the crops in store for harder times, insurance against winter when food was short and against crop failure in seasons of blight and drought. In return for their abundance of goods, the priests would give the farmers money. A shared belief in a new form of value: a coin.
+
+苏美尔文化的核心就是创造金钱，让男人们可以和伊什塔尔一起享受快乐。男人们会去寺里，把他们丰收的庄稼献给祭司。祭司们会把庄稼储存起来，以备不时之需，可以应对冬天食物短缺以及干旱季节作物歉收的情况。作为对丰富物资的回报，祭司会给农户一些硬币。硬币是一种新价值形式的共同信仰。
+
+What could they do with this coin? Have sex, of course. The Greek historian Herodotus wrote about how this worked:
+
+他们会用这枚硬币做什么呢?当然选择去爱神庙了。希腊历史学家希罗多德（Herodotus）写道：
+
+“Every woman of the land once in her life [had] to sit in the temple of love and have…intercourse with some stranger… the stranger men pass and make their choice…. It matters not what be the sum of money; the woman will never refuse, for that were a sin, the money being by this act made sacred. After their intercourse she has made herself holy in the sight of the goddess and goes away to her home; and thereafter there is no bribe however great that will get her. So then the women that are tall and fair are soon free to depart, but the uncomely have long to wait because they cannot fulfil the law; for some of them remain for three years, or four.”
+
+“这片土地上的每一个妇女，一生中必须有一次坐在爱神庙内，并在那里和一个不相识的男子交媾……不相识的男人走过来选择一位女子。钱的多少并无关系，女人是不能拒绝这件事的，否则便是一种罪恶，因为金钱在这种方式下是神圣的。当她和他交媾完毕，在神面前完成了自己的使命，她便可以回家去了。从这时开始，不论你再出多少钱，便再也不能得到她了。因此，那些颀长的美貌姑娘通常很快就可以回家，而那些相貌丑陋的女子就要等很长时间才能完成神圣的使命。有些女子不得不在神殿的圣域内等上三四年。”
+
+So money was sacred and every woman had to accept that she would prostitute herself for money at least once in her life. This is why Ishtar was also known by other names such as Har and Hora, from which the words “harlot” and “whore” originate. It is why prostitution is the oldest profession in the world, and accountancy the second oldest. Money was created to support religion and governments by developing a new shared belief structure that allowed society to overproduce goods and crops, and still get on with each other even in years of drought.
+
+因此，金钱是神圣的，每个女人都必须接受她一生至少要卖淫一次。所以伊什塔尔也被称为哈尔和霍拉，来源于英文单词“harlot”“whore”。因此卖淫才是世界上最古老的职业，会计是第二古老的职业。货币的发明是为了支持宗教和政府，通过建立一种新的共同信仰结构，使社会能够过度生产商品和作物。那样，即使常年干旱，人们仍能融洽相处。
+
+**THE THIRD AGE: THE INDUSTRIAL REVOLUTION**
+
+**第三个时代：工业革命**
+
+The Industrial Revolution can more or less be aligned with the emergence of steam power. While the steam age created lots of new innovations, the one that transformed the world was the invention of the steam engine. Moving from horse power to steam power allowed ships to steam across oceans, and trains across countries. It led to factories that could be heated and powered. The range of transformational moments that emerged during this time culminated in the late nineteenth-century innovations of electricity and telecommunications. With the move from steam to electricity, there was a shift from heavy-duty machinery to far lighter and easier communication and power structures. This shift from factories to offices ultimately heralded the end of the Industrial Revolution.
+
+工业革命的开始或多或少可以与蒸汽机的出现相一致。虽然蒸汽时代有许多新发明创造，但蒸汽机的发明改变了世界。从马力到蒸汽动力，船只得以在海洋中行驶，火车能通往各个国家，工厂可以加热、供电。19世纪末出现的一系列转变，推动电力和电信创新达到顶峰。随着蒸汽到电力的转变，重型机械到更轻更容易的通信和电力结构的转变，工厂到办公室的转变，最终宣告了工业革命的结束。
+
+The use of money as a means of value exchange, alongside barter, has been commonplace for centuries or, to be more exact, about 4,700 years. During this time, beads, tokens, silver, gold and other commodities were used as money. Perhaps the weirdest money is that of the Yap Islands in the Pacifi where stone is still used as currency.
+
+与物物交换一样，作为一种价值交换手段，货币已经使用了几个世纪，或者更确切地说，大约有4700年。在这期间，珠子、代币、银、金等商品被用作货币。也许最奇怪的货币是在位于太平洋的雅普群岛，那里的石头仍然被用作货币。
+
+The trouble is that stone, gold and silver are pretty heavy as mediums of exchange and vulnerable to attack and theft. Thus, as the Industrial Revolution powered full steam ahead, a new form of value exchange was needed. There had already been several innovations—the Medici bankers created trade finance and the Chinese had already been using paper money since the seventh century—but none of these went mainstream until the Industrial Revolution demanded it.
+
+麻烦的是，石头、黄金和白银作为交换媒介非常重，容易受到攻击和盗窃。因此，工业革命的全速前进就需要一种新的价值交换形式。之前有过几次创新，美第奇的银行家们提出了贸易融资，中国人7世纪就开始使用纸币，但在工业革命的需求之前，这些都没有成为主流。
+
+To address this need for a new form of value exchange, the governments of the world started to mandate and license banks to enable economic exchange. These banks appeared from the 1600s, and were organised as government-backed entities that could be trusted to store value on behalf of depositors. It is for this reason that banks are the oldest registered companies in most economies. The oldest surviving British fiancial institution is C. Hoares & Co., created by Richard Hoare in 1672. The oldest British bank of size is Barclays Bank, first listed in 1690. Most UK banks are over 200 years old which is unusual as, according to a survey by the Bank of Korea in 2008, there are only 5,586 companies older than 200 years, and most of these are in Japan.
+
+为了满足这种对新形式的价值交换的需求，世界各国政府开始对银行授权，允许它们进行经济交换。从17世纪开始出现了银行，它们是政府支持的实体组织，是储户可以信赖的存储机构。也是为这样，经济体中，银行是最古老的注册公司。英国现存最古老的金融机构是C. Hoares & Co.，由理查德·霍尔于1672年创立。英国最古老的银行是1690年上市的巴克莱银行。英国大多数银行的历史都在200年以上，这很不寻常，因为韩国央行（Bank of Korea）2008年的一项调查显示，只有5586家公司的历史超过200年，其中大部分都在日本。
+
+Banks and insurance companies have survived so long as large entities because they are government instruments of trade. They are backed and licensed by governments to act as fiancial oil in the economy, and the major innovation that took place was the creation of paper money, backed by government, as the means of exchange.
+
+银行和保险公司只要是大型实体就能生存下来，因为它们是政府的贸易工具，拥有政府的支持和许可，在经济中扮演着重要角色，发生的主要改变是在政府的支持下发行作为交换手段的纸币。
+
+Paper bank notes and paper cheques were created as part of this new ecosystem in order to make it easier to allow industry to operate. At the time, this must have caused quite a stir. A piece of paper instead of gold as a payment? But it wasn’t so outrageous. Perhaps this excerpt from the Committee of Scottish Bankers provides useful insight on why it took off:
+
+纸币和支票是这个新生态系统的一部分，目的是让工业更容易运转。在当时，这一定引起了不小的轰动。一张纸而不是黄金作为支付？但也没那么离谱。苏格兰银行家委员会（Committee of Scottish Bankers）的这段节选，或许能提供一些帮助，让人们了解纸币流行的原因：
+
+The first Scottish bank to issue banknotes was Bank of Scotland. When the bank was founded on 17th July 1695, through an Act of the Scottish Parliament, Scots coinage was in short supply and of uncertain value compared with the English, Dutch, Flemish or French coin, which were preferred by the majority of Scots. The growth of trade was severely hampered by this lack of an adequate currency and the merchants of the day, seeking a more convenient way of settling accounts, were amongst the strongest supporters of an alternative.
+
+第一家发行纸币的银行是苏格兰银行，1695年7月17日，通过苏格兰议会法案成立了苏格兰银行，与大多数苏格兰人青睐的英国、荷兰、佛兰芒或法国硬币相比，苏格兰硬币供应不足，而且不确定价值。由于缺乏足够的货币，贸易的增长受到了严重的阻碍，当时的商人要寻求更方便的结算方式，他们是另一种选择的最有力支持者之一。
+
+Bank of Scotland was granted a monopoly over banking within Scotland for 21 years. Immediately after opening in 1695 the Bank expanded on the coinage system by introducing paper currency.
+
+苏格兰银行（Bank of Scotland）在苏格兰占据了长达21年的垄断地位。1695年开市后，该银行通过引入纸币扩大了货币体系。
+
+This idea was first viewed with some suspicion. However, once it became apparent that the Bank of Scotland could honour its “promise to pay”, and that the paper was more convenient than coin, acceptance spread rapidly and the circulation of notes increased. As this spread from the merchants to the rest of the population, Scotland became one of the first countries to use a paper currency through choice.
+
+最初这个想法引起了一些怀疑，然而，一旦苏格兰银行能够兑现它的“支付承诺”，而且纸币比硬币更方便，承兑迅速传播开来，纸币的发行量也增加了。随着从商人传播到其他人群的趋势，苏格兰成为第一个选择使用纸币的国家。
+
+And the cheque book? The UK’s Cheque & Clearing Company provides a useful history:
+
+那，支票簿呢？英国支票结算公司提供了有用的一段历史：
+
+By the 17th century, bills of exchange were being used for domestic payments as well as international trades. Cheques, a type of bill of exchange, then began to evolve. They were initially known as ‘drawn notes’ as they enabled a customer to draw on the funds they held on account with their banker and required immediate payment … the Bank of England pioneered the use of printed forms, the first of which were produced in 1717 at Grocers’ Hall, London. The customer had to attend the Bank of England in person and obtain a numbered form from the cashier. Once completed, the form had to be authorised by the cashier before being taken to a teller for payment. These forms were printed on ‘cheque’ paper to prevent fraud. Only customers with a credit balance could get the special paper and the printed forms served as a check that the drawer was a bona five customer of the Bank of England.
+
+到了17世纪，汇票被用于国内支付和国际贸易。支票作为一种交换票据开始流行，最初被称为“票据”，因为支票可以让客户从银行账户上提取资金，并立即到账。英国央行（Bank of England）率先使用印刷表格。这种表格由伦敦格劳斯大楼 （Grocers’ Hall）于1717年发行。客户必须亲自到英国央行去，从柜员那儿获取有编号的表格，填好表格后，必须先由柜员确认，才能交给出纳员付款。这些表格被印在“支票”纸上以防欺诈。只有具有信用额度的客户才能得到这种特殊纸张，带有印刷表格的支票可以证明出票人真的是英国央行的客户。
+
+In other words, in the late seventeenth century, three major innovations appeared at the same time: governments giving banks licences to issue bank notes and drawn notes, cheques and the replacement of coins and valued commodities with paper. The banking system then fuelled the Industrial Revolution, not only enabling the easy trading of value exchange through these paper-based systems, but also allowing trade and structure finance through systems that are similar to the ones we still have today.
+
+换句话说，在17世纪后期，同时出现了三种重大创新：政府允许银行发行纸币和票据，支票以及用纸币代替硬币和有价值的商品。随后，银行体系推动了工业革命，不仅通过这些基于纸张的系统实现了价值交换的轻松交易，而且还允许通过类似于今天仍在使用的系统进行贸易和结构融资。
+
+**THE FOURTH AGE: THE NETWORK AGE**
+
+**第四个时代****:****网络时代**
+
+The reason for talking about the history of money in depth is to serve as a backdrop to what is happening today. Money originated as a control mechanism for governments of Ancient Sumer to control farmers, based on shared beliefs. It was then structured during the Industrial Revolution into government-backed institutions—namely, banks—that could issue paper notes and cheques that would be as acceptable as gold or coinage, based on these shared beliefs. We share a belief in banks because governments say they can be trusted and governments use the banks as a control mechanism to manage the economy.
+
+之所以深入讨论货币的历史，是为今天发生的事情塑造背景。货币起源于古苏美尔政府基于共同信仰，对农民实行的控制机制。工业革命时期，货币结构化为政府支持的机构——银行，可以根据这些共同信念发行纸币和支票，与黄金或硬币一样能够被接受。在共同信仰的基础上，发行纸币和支票，能像黄金或硬币一样被人们接受。我们对银行有共同的信仰，因为政府说它们可以信任，政府利用银行作为管理经济的控制机制。
+
+So now we come to bitcoin and the internet age, where some of these fundamentals are being challenged by the internet. Let’s first take a step back and see how the internet age came about. Some might claim it dates back to Alan Turing, the Enigma machine and the Turing Test, or even further back to the 1930s when the Polish Cipher Bureau were the first to decode German military texts on the Enigma machine. Enigma then led to the invention of modern computing, as British cryptographers created a programmable, electronic, digital computer called Colossus to crack the codes held in the German messages, alongside developments in the United States.
+
+现在我们处在比特币和互联网时代，在这个时代，一些基本原理正受到互联网的挑战。我们先回过头，看看互联网时代是如何开始的。有人可能会说，它可以追溯到艾伦·图灵（Alan Turing）、恩格玛（Enigma）计算机和图灵测试（Turing Test）的时代，甚至可以追溯到20世纪30年代，当时波兰密码局（Cipher Bureau）是第一个用恩格玛计算机破译德国军事文件的机构。在此之后，恩格玛推动了现代计算机的发明，英国密码专家发明了一种可编程的电子数字计算机，取名为巨人，用来破解德国信息中有关美国发展的内容。
+
+Colossus was designed by engineer Tommy Flowers and was operational at Bletchley Park by February 1944, two years before the American computer ENIAC appeared. ENIAC, short for Electronic Numerical Integrator and Computer, was the first general-purpose electronic computer. It had been designed by the U.S. Military for meteorological purposes and was delivered in 1946.
+
+巨人由工程师汤米·傅劳斯（Tommy Flowers）设计，1944年2月在布莱切利公园（Bletchley Park）投入使用，比美国电脑ENIAC还早两年。ENIAC是电子数字积分器和计算机的缩写，是第一台通用电子计算机。它由美国军方设计的，用于气象监测，在1946年交付使用。
+
+When ENIAC launched, the media called it “the Giant Brain”, with a speed a thousand times faster than any electro mechanical machines of its time. ENIAC weighted over 30 tons, took up 1,800 square feet of space and could process about 385 instructions per second. Compared to an iPhone 6 that can process around 3.5 billion instructions per second, this was rudimentary technology. However, we are talking about seventy years ago, and Moore’s Law hadn’t kicked in yet.
+
+当ENIAC推出时，媒体称其为“巨脑”，其运行速度是当时任何机电机器的一千倍。ENIAC重量超过30吨，占地1800平方英尺，每秒可处理约385条指令。与每秒可处理约35亿条指令的iPhone 6相比，这是一项基本技能。然而，我们谈论的是70年前，那时还没有出现摩尔定律。
+
+The key is that Colossus and ENIAC laid the groundwork for all modern computing, with this becoming a boom industry in the 1950s. You may think that surprising when, back in 1943, the then president of IBM, Thomas J. Watson, predicted that there would be a worldwide market for maybe five computers. Bearing in mind the size and weight of these darned machines, you could see why he thought that way but, my, how things have changed today.
+
+关键是巨人和ENIAC为所有现代计算机奠定了基础，在20世纪50年代，这成为一个蓬勃发展的行业。1943年，当时的IBM总裁托马斯·沃森（Thomas J. Watson）预测，全球市场上可能只有五台电脑，你可能会觉得这实在太惊讶了。联想到这些该死的机器的大小和重量，你可以理解他为什么这样想，但是，我的天，今天的情况发生了怎样的变化。
+
+However, we are still in the early days of the network revolution and I’m not going to linger over the history of computers here. The reason for talking about ENIAC and Colossus was more to put our current state of change in perspective. We are seventy years into the transformations that computing is giving to our world. Considering it took 330 years from the emergence of steam power to the last steam power patent, this implies that there’s a long way to go in our transformation.
+
+然而，我们仍然处于网络革命的早期阶段，而且我不会停留在计算机历史上。谈论ENIAC和巨人的原因，更多的是将我们目前的变化状态放到一个新的角度。计算机给世界带来的变化已经有70年了。从蒸汽机的出现到最后一个蒸汽动力专利花了330年，这意味着我们的转型还有很长的路要走。
+
+The main difference between the fourth age and those that have gone before is the collapse of time and space. Einstein would no doubt have a giggle at this, but it is now a fact that we no longer are separated by time and space as we were before. Distance is collapsing every day, thanks to our global connectivity. We can talk, socialise, communicate and trade globally, in real time for almost free. Today, we have almost unlimited storage and connectivity, thanks to the rapidly diminishing costs of technology. As a result, there are $1 phones out there today, and the cheapest smartphone in the world is currently the Freedom 251, an Android phone with a 4-inch screen that costs just 251 rupees, around $3.75, in India. In other words, what is happening in this revolution is that we can provide a computer far more powerful than anything that’s come before and put it in the hands of everyone on the planet so that everyone on the planet is on the network. Once on the network, you have the network effect, which creates exponential possibilities as everyone can now trade, transact, talk and target one-to-one, peer-to-peer (P2P).
+
+第四个时代与前几个时代的主要区别在于时间和空间的缩短。毫无疑问，爱因斯坦对此会嗤之以鼻，但现在我们不再像以前那样被时间和空间分开了。由于全球连通性，距离每天都在缩短。我们几乎可以免费地在全球范围内进行实时对话、社交、交谈和贸易。如今，技术成本迅速下降，我们拥有几乎无限的存储和连接能力。因此，现在市面上有1美元的手机，而目前世界上最便宜的智能手机是Freedom 251，这是一款4英寸屏幕的安卓手机，在印度售价仅为251卢比（约3.75美元）。换句话说，在这场革命中，我们可以提供比以前任何事物都强大的计算机，并且使每个人都能拥有你算计，能够接触网络。一旦上网，就会有网络效应。这个可能性迅速增大，因为现在每个人都可以进行贸易、谈判、交流和锁定一对一营销、点对点金融。
+
+This is why I think of the network as the fourth age of humanity, as we went from disparate, nomadic communities in the first age; to settlements, farming and cities in the second; to travel across countries and continents thanks to steam power in the third age; and to a world that is connected globally, one-to-one, today. This is a huge transformation and shows that man is moving from single tribes to communities to connected communities to a single platform—the internet.
+
+为什么我认为网络是人类的第四个时代。因为第一个时代，我们从完全不同的游牧部落开始；其次是定居、农业和城市；在第三个时代，由于蒸汽机的发明，人们可以穿越国家和大洲；今天的世界是全球化的、一对一的。这是一个巨大的转变，表明人类正在从单个部落走向社区，再转移到互联网这个单一平台。
+
+The importance of this is that each of these changes has seen a rethinking of how we do commerce, trade and, therefore, finance. Our shared belief system allowed barter to work until abundance undermined bartering, so we created money. Our monetary system was based on coinage, which was unworkable in a rapidly expanding industrial age, so we created banking to issue paper money. Now, we are in the fourth age, and banking is no longer working as it should. Banks are domestic but the network is global. Banks are structured around paper but the network is structured around data. Banks distribute through buildings and humans but the network distributes through software and servers.
+
+这一点的重要性在于，每一次改变都让我们重新思考如何进行商业、贸易以及融资。我们共同信仰的体系允许发挥物物交换的作用，直到物物交换被打破，我们就发明了货币。我们的货币体系以硬币为基础，这在快速扩张的工业时代是行不通的，所以我们创建了银行来发行纸币。现在，我们已经进入第四个时代，银行业已不再发挥原有的作用。银行是国有的，而网络是全球的；银行结构围绕着纸张，而网络结构围绕着数据；银行通过建筑物和人员进行分配，而网络通过软件和服务器进行分配。
+
+This is why so much excitement is hitting mainstream as we are now on the cusp of the change from money and banking to something else. However, as in each previous age, the “something else” doesn’t replace what was there before. It’s added to it. Money didn’t replace bartering; it diminished it. Banking didn’t replace money; it diminished it. Something in the network age isn’t going to replace banking but it will diminish it.
+
+这就是当我们处在从货币和银行业向其他领域转变的风口浪尖时，为什么主流中充斥着如此多激烈的反应？然而，就像之前的时代，“新东西”并不能取代已有的东西，只能进行扩充。货币并没有取代物物交换，只是减少了物物交换的频率；银行并没有取代货币，只是减少了货币的使用。网络时代的某些东西不会取代银行业，但会削弱银行业的作用。
+
+Let’s put diminish into context. Barter is still at the highest levels that it has ever been—about 15 per cent of world trade is in a bartering form—but it is small compared to the monetary flows. Money in its physical form is also trading at the highest levels it has ever seen—cash usage is still rising in most economies—but it is not high compared to the alternative forms of monetary flow digitally and in foreign exchange (FX) markets and exchanges. In other words, the historical systems of value exchange are still huge but they are becoming a smaller percentage of trade compared with the newest structure we have implemented to allow value to flow.
+
+那就以此为背景，实际对比一下吧。物物交换仍处于有史以来的最高水平，约15%的世界贸易是以物物交换的形式进行的，但与货币流通相比，这一比例很小。以实物形式存在的货币交易也达到了有史以来的最高水平，在大多数经济体中，现金的使用率仍在上升，但与数字形式的货币流量以及外汇（FX）市场和交易所的货币流量相比，这还不算高。换句话说，历史上的价值交换体系仍然庞大，但与我们为实现价值流动而实施的最新结构相比，它们在贸易中所占的比例正在下降。
+
+This is why I’m particular excited about what the network age will do, as we connect one-to-one in real time, because it will create massive new flows of trade for markets that were underserved or overlooked. Just look at Africa. African mobile subscribers take to mobile wallets like ducks to water. A quarter of all Africans who have a mobile phone have a mobile wallet, rising to pretty much every citizen in more economically vibrant communities like Kenya, Uganda and Nigeria. This is because these citizens never had access to a network before; they had no value exchange mechanism, except a physical one that was open to fraud and crime. Africa is leapfrogging other markets by delivering mobile fiancial inclusion almost overnight. The same is true in China, India, Indonesia, the Philippines, Brazil and many other underserved markets. So the first major change in the network effect of financial inclusion is that the billions of people who previously had zero access to digital services are now on the network.
+
+这就是我对网络时代会发生什么感到特别兴奋的原因，比如，我们可以实时地一对一联系，因为这样会给那些服务不足或被忽视的市场带来大量新的贸易流。来看一下非洲。非洲手机用户对手机钱包的需求就像鸭子对水一样，在所有拥有手机的非洲人中，有四分之一的人拥有手机钱包，在肯尼亚、乌干达和尼日利亚等经济更活跃的地方，这几乎覆盖了每一个公民。因为这些公民以前从未接触过网络，除了一种对欺诈和犯罪持开放态度的实体机制，他们没有任何价值交换机制。几乎是一夜之间，通过提供移动金融服务，继而非洲跨越了其他市场。中国、印度、印尼、菲律宾、巴西等服务欠缺的市场也是如此。因此，金融包容性的网络效应带来的第一个重大变化是，以前无法获取数字服务的人，现在都能上网。
+
+A second big change is the nature of digital currencies, cryptocurrencies, bitcoin and shared ledgers. This is the part that is building the new rails and pipes for the fourth generation of finance, and we are yet to see how this rebuilding works out. Will all the banks be based on an R3 blockchain? Will all clearing and settlement be via Hyperledger? What role will bitcoin play in the new financial ecosystem? We don’t know the answers to those questions yet, but what we will see is a new ecosystem that diminishes the role of historical banks. Thus, the challenge for historical banks is whether they can rise to the challenge of the new system.
+
+第二个重大变化是数字货币、加密货币、比特币和共享账簿的性质。这是为第四代金融建设新轨道和途径的部分，我们还没有看到重建的结果。所有银行都是基于R3区块链吗？所有的清算和结算都是通过超级账本进行的吗？比特币将在新的金融生态系统中扮演何种角色？我们还不知道这些问题的答案，但我们将看到一个削弱传统银行作用的新生态系统。因此，对传统银行来说，它们面临的一大挑战是能否应对新体系。
+
+The fourth age of humanity is a digital networked value structure that is real time, global, connected, digital and near free. It is based on everything being connected, from the more than seven billion humans communicating and trading in real time globally to their billions of machines and devices, which all have intelligence inside. This new structure obviously cannot work on a system built for paper with buildings and humans, and is most likely to be a new layer on top of that old structure.
+
+人类的第四个时代是数字网络化的价值结构，它是实时的、全球的、相联系的、数字的和近乎自由的。从全球70多亿人可以实时进行交流到数十亿机器和设备内部都是智能的，这个时代建立在一切都被来连接的基础上。显然，这个新结构无法应用于银行这个围绕纸张、建筑、人员的体系中，很有可能是旧结构上的一个新层次。
+
+A new layer of digital inclusion that overcomes the deficiencies of the old structure. A new layer that will see billions of transactions and value transferred at light speed in tiny amounts. In other words, the fourth age is an age where everything can transfer value, immediately and for an amount that starts at a billionth of a dollar if necessary.
+
+一个新的数字包容层克服了旧结构的不足，将见证数十亿的交易价值光速、微量地转移。换言之，在第四个时代，一切都可以立即转移价值。如果有必要的话，可以从一美元的十亿分之一开始。
+
+This new layer for the fourth age is therefore not like anything that we have seen before and, for what was there before, it will supplement the old system and diminish it. Give it half a century and we will probably look back at banking today as we currently look back at cash and barter. They are old methods of transacting for the previous ages of man and moneykind.
+
+这个新层次为第四个时代服务，因此，与我们之前见过的都不一样，它将补充并削弱旧系统。再过半个世纪，我们可能会回顾今天的银行业，就像我们现在回顾现金和物物交换，它们是人类货币时代古老的交易方式。
+
+This fourth age is digitalising value. Banks, cash and barter will still be around but will play a much smaller part of the new value ecosystem. They may still be processing volumes greater than ever before but, in context of the total system of value exchange and trade, their role is smaller.
+
+第四个时代是数字化价值时代。银行、现金和物物交换仍将存在，但在新的价值生态系统中所占的份额将小得多。它们可能仍比以往任何时候的处理量都大，但在整个价值交换和贸易体系中，它们的作用要小一些。
+
+I don’t expect banks to disappear, but I do expect a new system to evolve that may include some banks, but will also include new operators that are truly digital. Maybe it will be the Googles, Baidus, Alibabas and Facebooks or maybe it will be the Prospers, Lending Clubs, Zopas and SoFis. We don’t know yet but if I were a betting man, I would say it will be a hybrid mix of all, as all evolve to the fourth age of humanity.
+
+我并不认为银行会消失，但我确实预计一个新的系统会出现，其中可能包括一些银行，但也会包括真正数字化的新运营商。或许是谷歌（Google）、百度（Baidu）、阿里巴巴（Alibaba）和脸书（Facebook），或许是繁荣（Prosper）、借贷俱乐部（Lending club）、佐帕（Zopa）和索菲（SoFi）。我们还不知道结果，但如果我是一个赌徒，我会说这将是所有的混合，因为它们都进入了人类的第四个时代。
+
+The hybrid is one where banks are part of a new value system that incorporates digital currencies, financial inclusion, micropayments and peer-to-peer exchange, precisely because that is what the networked age needs. It needs the ability for everything with a chip inside to transact in real time for near free. We’re not there yet but, as I said, this revolution is in its early days. It’s just seventy years old. The last revolution took 330 years to play out. Give this one another few decades and then we will know exactly what we built.
+
+在这种混合模式中，银行是新价值体系的一部分。这个体系包括了数字货币、金融包容、小额支付和点对点（p2p）交易。这个体系也是网络化时代所需要的。它需要具备内置芯片的所有功能，才能几乎自由地实时交易。我们还没到那一步，但是，正如我所说的，这场革命还处于早期阶段。现在才经历70年，上一次革命花了330年才结束。再过几十年，我们将确切知道我们到底做了什么。
+
+**THE FIFTH AGE: THE FUTURE**
+
+**第五个时代****:****未来**
+
+Above, I’ve talked about the main types of money used by people throughout the revolutions in humankind, namely:
+
+以上，我已经谈到了人类在整个人类革命中使用的主要货币类型，即：
+
+• barter
+
+•物物交换
+
+• coins
+
+•硬币
+
+• paper
+
+•纸币
+
+• chips
+
+•芯片
+
+What could possibly be the fifth? When we are just at the start of the Internet of Things (IoT), and building an Internet of Value (IoV), how can we imagine something beyond this next ten-year cycle?
+
+第五种可能是什么？当我们刚刚开始使用物联网（IoT），并建立价值互联网（IoV）时，我们能想象下一个10年后会发生什么吗？
+
+Well, we can and we must. After all, people are already imagining a future beyond today. People like Elon Musk who see colonising Mars and supersmart high-speed transportation a realisable vision. People like the engineers at Shimizu Corporation, who imagine building city structures in the oceans. People like the guys at NASA, who are launching space probes capable of sending us HD photographs of Pluto when, just a hundred years ago, we only imagined that it existed.
+
+好吧，我们可以而且必须这样做。毕竟，人们已经开始憧憬未来了。埃隆·马斯克（Elon Musk）等人认为征服火星和超智能高速交通是一种可实现的愿景。人们喜欢清水公司的工程师，因为他们想象着海洋中的城市建筑。人们喜欢美国国家航空航天局（NASA）的人员，因为他们发射的太空探测器能够向我们发送冥王星的高清照片，而就在一百年前，我们只是想象它的存在。
+
+A century ago, Einstein proposed a space-time continuum that a century later has been proven. What will we be discovering, proving and doing a century from now? No one knows, and most who predict usually get it terribly wrong. A century ago, people were predicting lots of ideas but the computer had not been imagined, so the network revolution was unimaginable. A century before this, people believed that the answer to the challenge of clearing horse manure off the streets was to have steam-powered horses, as the idea of the car had not been imagined. So who knows what we will be doing a century from now.
+
+一个世纪前，爱因斯坦提出了一个世纪后被证明的时空连续体。一个世纪后，我们会发现什么，证明什么以及做过什么，没有人知道，而大多数人的预测通常都大错特错。一个世纪前，人们预测了很多想法，但是没有想到计算机的出现，所以网络革命是不可想象的。在此之前的一个世纪，人们相信可以依靠蒸汽驱动的马车来清除街道上的马粪，因为没有想过会出现汽车。那么谁知道一个世纪后我们在做什么呢？
+
+What will the world look like a century from now? Well, there are some clues. We know that we have imagined robots for decades, and robots will surely be pervasive and ubiquitous within the next hundred years as even IBM is demonstrating such things today. A century from now, we know we will be travelling through space, as the Wright Brothers invented air travel a century ago and look at what we can do today. Emirates now offers the world’s longest non-stop flght between Auckland and Dubai, lasting 17 hours and 15 minutes. We are already allowing reusable transport vehicles to reach the stars and, a century from now, we will be beyond the stars, I hope.
+
+一个世纪后的世界会是什么样子？好吧，有一些线索。我们知道，机器人的设想有几十年了，在未来的一百年里，机器人肯定会无处不在，就像如今国际商业机器公司（IBM）所展示的。一个世纪后，我们知道我们将开启太空旅行，因为莱特兄弟（Wright Brothers）在一个世纪前实现了航空旅行。我们今天能做些什么呢？阿联酋航空现在推出了世界上最长的航线，从奥克兰到迪拜的直飞航班，需要17小时15分钟。我们已经允许重复使用运输工具到达其他星球，我希望，一个世纪后，我们可以超出星球范围。
+
+Probably the largest and most forecastable change is that we will be living for longer. Several scientists believe that most humans will live a century or more, with some even forecasting that a child has already been born who will live for 150 years. Just imagine what that child will see!
+
+也许，最大也是最不可预测的变化是我们将会活得更长。一些科学家相信，大多数人将会活一个世纪或更长时间，有些人甚至预测，已经出生的孩子将会活到150岁。想象一下那个孩子会看到什么！
+
+The reason why we will live so long is because a little bit of the machine will be inside the human and a little bit of the human inside the machine. The Robocop is already here, with hydraulic prosthetics linked to our brainwaves that are able to create the bionic human. Equally, the Cyborg will be arriving within 35 years, according to one leading futurist. Add to this smorgasbord of life-extending capabilities from nanobots to leaving our persona on the network after we die, and the world becomes a place of magic.
+
+我们将能活这么久的原因是机器和人体都互相拥有彼此身体的一小部分。机械战警已经出现了，液压假肢连接着我们的脑波，能够创造出仿生人类。一位杰出的未来学家同样称，赛博格（Cyborg）将在35年内出现。纳米机器人到我们死后留在网络上的角色，都加上这种各种延长寿命的功能，这个世界就充满了魔力。
+
+We will have smart cars, smart homes, smart systems and smart lives. Self-driving cars, biotechnologies, smart networking and more will bring all the ideas of *Minority Report* and *Star Trek* to a science that is no longer fiction, but reality. It might even be possible to continually monitor brain activity and alert health experts or the security services before an aggressive attack, such as in Philip K. Dick’s dystopian novella *The Minority Report*.
+
+我们将拥有智能汽车、智能住宅、智能系统和智能生活。自动驾驶汽车、生物技术、智能网络等技术的实现，将使《少数派报告》和《星际迷航》的所有观点不再是虚幻的，而是科学存在的。甚至可以像菲利普·迪克（Philip K. Dick）的反乌托邦中篇小说《少数派报告》中描写的那样，持续监测人的大脑活动，在其发起侵略性攻击之前，提醒健康专家或向安全部门报警。
+
+So, in this fifth age of man where man and machine create superhumans, what will the value exchange system be? Well, it won’t be money and it probably won’t even be transactions of data but, instead, some other structure. Money may no longer be a meaningful system in the fith age of man. Having digitalised money in the fourth age, it will just become a universal credit and debit system. Digits on the network recording our taking and giving; our living and earning; our work and pleasure.
+
+那么，在人类的第五个时代，人类和机器创造了超人类，价值交换系统又会是怎样？嗯，不会是金钱的交易，甚至可能也不会是数据的交易，而是其他结构。在人类第五个时代，金钱系统可能不再有意义。数字货币已经进入第四个时代，它将成为一个通用的借贷系统。网络上的数据记录了我们的收获和付出，我们的生活和收入，我们的工作和乐趣。
+
+After robots take over so many jobs, and man colonises space, do we really think man will focus on wealth management and value creation or will we move beyond such things to philanthropic matters? This is the dream of Gene Roddenberry and other space visionaries, and maybe it could come true. After all, when you become a multibillionaire, your wealth becomes meaningless. This is why Bill Gates, Warren Buffett and Mark Zuckerberg focus on philanthropic structures because money and wealth have become meaningless to them.
+
+在机器人接管了这么多工作，人类占领了太空之后，我们真的认为人类会专注于管理财富和创造价值吗？还是我们会超越这些事务而转向慈善事业呢？这是吉恩·罗登贝瑞和其他太空梦想家的梦想，也许这会变成现实。毕竟，当你成为亿万富翁时，你的财富就变得毫无意义。这就是比尔·盖茨（Bill Gates）、沃伦·巴菲特（Warren Buffett）和马克·扎克伯格（Mark Zuckerberg）关注慈善基金的原因，因为金钱和财富对他们来说已经毫无意义。
+
+So could the fifth age of man—the man who lives for centuries in space—be one where we forget about banking, money and wealth, and focus on the good of the planet and mankind in general? If everyone is on the network and everyone has a voice, and the power of the one voice can be as powerful as the many, will we move beyond self-interest?
+
+那么，进入第五个时代，在太空中生活了几个世纪的人类会不会忘记银行、金钱和财富，而把注意力集中在地球和全人类的福祉上呢？如果每个人都能上网并有自己的看法，一个人的力量也可以和很多人一样强大，我们会超越自身利益吗？
+
+I have no idea, but it makes for interesting questions around how and what we value when we become superhumans thanks to life-extending and body engineering technologies, when we move beyond Earth to other planets and when we reach a stage where our every physical and mental need can be satisfied by a robot.
+
+我不知道，但是它引出了有趣的问题，当我们由于生命延伸和身体工程技术成为超人类，当我们从地球到其他星球，当我们到了机器人可以满足我们所有的生理和心理需求的阶段，我们要重视什么以及如何重视。
